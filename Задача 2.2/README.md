@@ -41,7 +41,12 @@ rd.product - полная перегрузка
 
 rd_deal_info_Loader_0.1.zip	- Частичная дозагрузка rd.deal_info за период 2023-03-15
 
+<img width="1011" height="473" alt="image" src="https://github.com/user-attachments/assets/a89fa221-96e6-4e1a-810b-aff3da157888" />
+
+
 rd_product_Loader_0.1.zip	 - Полная перегрузка rd.product с фильтрацией по датам 2023-01-01 и 2023-08-11
+
+<img width="1018" height="469" alt="image" src="https://github.com/user-attachments/assets/aba5d431-9c49-4a85-bb41-3227f7b4378a" />
 
 ---
 
